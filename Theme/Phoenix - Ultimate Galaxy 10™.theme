@@ -1,0 +1,135 @@
+; Copyright © Phoenix Ultimate inc.
+
+[Theme]
+; Windows 10 - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Phoenix - Ultimate Galaxy 10™
+BrandImage=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Logo\Phoenix Logo.png
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Icons\my-computer.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Icons\control-panel.ico
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Icons\web.ico
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Icons\recycle-bin-full.ico
+Empty=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Icons\recycle-bin-empty.ico
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Working In Background.ani
+Arrow=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Normal Select.ani
+Hand=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Link Select.ani
+Help=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Help Select.ani
+No=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Unavailable.ani
+NWPen=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Handwriting.ani
+SizeAll=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Move.ani
+SizeNESW=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Diagonal Resize 2.ani
+SizeNS=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Vertical Resize.ani
+SizeNWSE=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Diagonal Resize 1.ani
+SizeWE=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Horizontal Resize.ani
+UpArrow=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Alternate Select.ani
+Wait=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Busy.ani
+Crosshair=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Precision Select.ani
+IBeam=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Cursors\Text Select.ani
+DefaultValue=DIM
+
+[Control Panel\Desktop]
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[Slideshow]
+Interval=6000
+Shuffle=1
+ImagesRootPath=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Wallpaper
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Phoenix - Ultimate Galaxy 10™.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0X1A0073FF
+VisualStyleVersion=10
+Transparency=1
+Composition=1
+
+[boot]
+SCRNSAVE.EXE=%SystemRoot%\SysWOW64\lol.scr
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Phoenix - Ultimate Galaxy 10™
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Ding.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Change Theme.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Notify.wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\MenuCommand]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Menu Command.wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Print Complete.wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\RestoreUp]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Shutdown.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Balloon.wav
+[AppEvents\Schemes\Apps\.Default\SystemQuestion]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Logoff.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Logon.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows User Account Control.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Recycle.wav
+[AppEvents\Schemes\Apps\Explorer\FaxError]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Error.wav
+[AppEvents\Schemes\Apps\Explorer\FaxLineRings]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Ringin.wav
+[AppEvents\Schemes\Apps\Explorer\FaxSent]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Print Complete.wav
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Feed Discovered.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Navigation Start.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SystemRoot%\Resources\Themes\Phoenix - Ultimate Galaxy 10\Sound Scheme\Windows Information Bar.wav

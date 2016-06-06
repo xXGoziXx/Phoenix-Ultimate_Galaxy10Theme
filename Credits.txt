@@ -1,0 +1,44 @@
+﻿Credits:
+
+1. Aero Glass Theme Atlas Images for Windows 8.1 and Windows 10
+	-For providing the theme atlas image.
+
+2. Various Sources on Google Images
+	-For providing wallpapers 1,2,4,5,6,8, and 9
+
+3. Mr. Grim (Mark)
+	-For creating the visual style file
+	-For making the layour of the vbs script that installs all the needed fonts
+	-For providing some of the .wav files which I used to make the Sound Schemes
+
+4. theblueguy07
+	-For creating the DIM Cursors
+
+5. Mr.Blade
+	-For making the icons
+
+6. Big Muscle (Tomáš Kohlschütter)
+	-For creating AeroGlass
+
+7. Riot Games
+	-For creating the League Screensaver
+
+Source Links (respectively):
+
+1. https://sites.google.com/a/isd77.k12.mn.us/aero-glass-theme-atlas-images-for-windows-8-1-and-windows-10/home/other-windows-10-atlas-images
+
+2. https://images.google.com/
+
+3. http://mrgrim01.deviantart.com/
+
+4. http://theblueguy07.deviantart.com/
+
+5. https://mrbladedesigns.com/
+
+6. http://www.glass8.eu/
+
+7. http://www.riotgames.com/
+
+Thank You all for helping me to make this theme pack possible!
+
+Copyright © Phoenix Ultimate inc.

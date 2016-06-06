@@ -1,0 +1,27 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*                                               **Phoenix - Ultimate Galaxy 10™ Theme**                                                   *
+*                                                                                                                                         *
+*                                                                                                                                         *
+*                                                                                                                                         *
+* Note: Make sure you read everything before following the instructions!                                                                  *
+*                                                                                                                                         *
+* Instructions:                                                                                                                           *
+*                                                                                                                                         *
+* Note: The images I will be referring to are in the "Instructions" folder                                                                *
+*   1. Go to where you placed the AeroGlass folder and double-click on the "unins000.exe" file to uninstall AeroGlass.                    *
+*                                                                                                                                         *
+*   2. Double-Click on the "UXtheme for Win10.exe" file, untick all the boxes and 'Patch'.                                                *
+*                                                                                                                                         *
+*   3. To remove System Transparency, open the file location and delete the "System transparancy.exe" file. (see image "6.png")           *
+*                                                                                                                                         *
+*   4. Remove the "Phoenix - Ultimate Galaxy 10"(folder)  and the "Phoenix - Ultimate Galaxy 10™.theme"(file)                             *
+*        from  "%SystemRoot%\Resources\Themes" folder. (see image "4.png")                                                                *
+*                                                                                                                                         *
+*                                                                                                                                         *
+*                                                                                                                                         *
+*                                                                                                                                         *
+*                                                                                                                                         *
+*                                                                                                                                         *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Copyright © Phoenix Ultimate inc.

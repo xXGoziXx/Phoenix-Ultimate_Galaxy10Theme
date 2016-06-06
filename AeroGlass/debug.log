@@ -1,0 +1,344 @@
+[2016-04-28 02:33:09][0x1BD8:0x19BC] Installing DWM hook...
+[2016-04-28 02:33:09][0x1BD8:0x19BC] User: SYSTEM
+[2016-04-28 02:33:09][0x1BD8:0x19BC] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-28 02:33:09][0xD44:0x2EC0] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 02:33:09][0xD44:0x2EC0] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 02:33:09][0xD44:0x2EC0] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 02:33:09][0xD44:0x2EC0] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 02:33:09][0xD44:0x2EC0] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 02:33:09][0xD44:0x2EC0] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 02:33:09][0xD44:0xE78] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 02:33:09][0xD44:0xE78] Loading settings (flags = 0x3) from HKEY 0x0000000000000414 for session #1
+[2016-04-28 02:33:09][0xD44:0xE78] dwmcore.dll version 10.0.10586.212
+[2016-04-28 02:33:09][0xD44:0xE78] udwm.dll version 10.0.10586.122
+[2016-04-28 02:33:09][0xD44:0xE78] DWM incompatibility error 0x8
+[2016-04-28 02:33:21][0xD44:0xE78] DWM incompatibility error 0x8
+[2016-04-28 02:35:46][0x33DC:0x6C4] Installing DWM hook...
+[2016-04-28 02:35:46][0x33DC:0x6C4] User: SYSTEM
+[2016-04-28 02:35:46][0x33DC:0x6C4] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-28 02:35:46][0x15C8:0x2560] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 02:35:46][0x15C8:0x2560] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 02:35:46][0x15C8:0x2560] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 02:35:46][0x15C8:0x2560] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 02:35:46][0x15C8:0x2560] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 02:35:46][0x15C8:0x2560] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 02:35:46][0x15C8:0x3470] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 02:35:46][0x15C8:0x3470] Loading settings (flags = 0x3) from HKEY 0x0000000000000614 for session #1
+[2016-04-28 02:35:46][0x15C8:0x3470] dwmcore.dll version 10.0.10586.212
+[2016-04-28 02:35:46][0x15C8:0x3470] udwm.dll version 10.0.10586.122
+[2016-04-28 02:35:47][0x15C8:0x3470] DWM incompatibility error 0x8
+[2016-04-28 02:36:53][0x15C8:0x3470] DWM incompatibility error 0x8
+[2016-04-28 03:40:29][0x200C:0xC6C] Installing DWM hook...
+[2016-04-28 03:40:29][0x200C:0xC6C] User: SYSTEM
+[2016-04-28 03:40:29][0x200C:0xC6C] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-28 03:40:29][0x2D8:0x1614] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 03:40:29][0x2D8:0x1614] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 03:40:29][0x2D8:0x1614] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 03:40:29][0x2D8:0x1614] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 03:40:29][0x2D8:0x1614] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 03:40:29][0x2D8:0x1614] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 03:40:29][0x2D8:0x2630] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 03:40:29][0x2D8:0x2630] Loading settings (flags = 0x3) from HKEY 0x0000000000000430 for session #1
+[2016-04-28 03:40:29][0x2D8:0x2630] dwmcore.dll version 10.0.10586.212
+[2016-04-28 03:40:29][0x2D8:0x2630] udwm.dll version 10.0.10586.122
+[2016-04-28 03:40:29][0x2D8:0x2630] DWM incompatibility error 0x8
+[2016-04-28 03:40:49][0x2D8:0x2630] DWM incompatibility error 0x8
+[2016-04-28 03:40:50][0x2D8:0x2630] DWM incompatibility error 0x8
+[2016-04-28 03:43:55][0x16AC:0x2448] Installing DWM hook...
+[2016-04-28 03:43:55][0x16AC:0x2448] User: SYSTEM
+[2016-04-28 03:43:55][0x16AC:0x2448] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-28 03:43:55][0x16AC:0x2448] Pipe error: 5 - Access is denied.
+[2016-04-28 04:07:13][0x16A0:0x954] Installing DWM hook...
+[2016-04-28 04:07:13][0x16A0:0x954] User: Nosa
+[2016-04-28 04:09:58][0x250C:0x2620] Installing DWM hook...
+[2016-04-28 04:09:58][0x250C:0x2620] User: Nosa
+[2016-04-28 04:10:34][0x1AD8:0x2920] Installing DWM hook...
+[2016-04-28 04:10:34][0x1AD8:0x2920] User: Nosa
+[2016-04-28 04:12:07][0x1754:0x2918] Installing DWM hook...
+[2016-04-28 04:12:07][0x1754:0x2918] User: Nosa
+[2016-04-28 04:13:08][0x1978:0xD30] Installing DWM hook...
+[2016-04-28 04:13:08][0x1978:0xD30] User: Nosa
+[2016-04-28 04:28:32][0x220C:0x16E8] Installing DWM hook...
+[2016-04-28 04:28:32][0x220C:0x16E8] User: SYSTEM
+[2016-04-28 04:28:32][0x220C:0x16E8] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-28 04:28:32][0x12B0:0x2ACC] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 04:28:32][0x12B0:0x2ACC] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 04:28:32][0x12B0:0x2ACC] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 04:28:32][0x12B0:0x2ACC] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 04:28:32][0x12B0:0x2ACC] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 04:28:32][0x12B0:0x2ACC] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 04:28:32][0x12B0:0x128] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 04:28:32][0x12B0:0x128] Loading settings (flags = 0x3) from HKEY 0x000000000000044C for session #3
+[2016-04-28 04:28:32][0x12B0:0x128] dwmcore.dll version 10.0.10586.212
+[2016-04-28 04:28:32][0x12B0:0x128] udwm.dll version 10.0.10586.122
+[2016-04-28 04:28:33][0x12B0:0x128] DWM incompatibility error 0x8
+[2016-04-28 04:30:24][0x2AF0:0xB10] Installing DWM hook...
+[2016-04-28 04:30:24][0x2AF0:0xB10] User: SYSTEM
+[2016-04-28 04:30:24][0x2AF0:0xB10] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-28 04:30:24][0x27CC:0x2AE0] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 04:30:24][0x27CC:0x2AE0] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 04:30:24][0x27CC:0x2AE0] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 04:30:24][0x27CC:0x2AE0] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 04:30:24][0x27CC:0x2AE0] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 04:30:24][0x27CC:0x2AE0] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 04:30:24][0x27CC:0x990] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 04:30:24][0x27CC:0x990] Loading settings (flags = 0x3) from HKEY 0x00000000000003B4 for session #4
+[2016-04-28 04:30:25][0x27CC:0x990] dwmcore.dll version 10.0.10586.212
+[2016-04-28 04:30:25][0x27CC:0x990] udwm.dll version 10.0.10586.122
+[2016-04-28 04:30:25][0x27CC:0x990] DWM incompatibility error 0x8
+[2016-04-28 04:31:42][0x1FC4:0x1F08] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 04:31:42][0x1FC4:0x1F08] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 04:31:42][0x1FC4:0x1F08] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 04:31:42][0x1FC4:0x1F08] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 04:31:42][0x1FC4:0x1F08] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 04:31:42][0x1FC4:0x1F08] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 04:31:42][0x1FC4:0x22DC] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 04:31:42][0x1FC4:0x22DC] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #5
+[2016-04-28 04:31:42][0x1FC4:0x22DC] dwmcore.dll version 10.0.10586.212
+[2016-04-28 04:31:42][0x1FC4:0x22DC] udwm.dll version 10.0.10586.122
+[2016-04-28 04:31:42][0x1FC4:0x22DC] DWM incompatibility error 0x8
+[2016-04-28 04:52:02][0x14AC:0x22B8] Installing DWM hook...
+[2016-04-28 04:52:02][0x14AC:0x22B8] User: Nosa
+[2016-04-28 04:57:48][0x4AC:0x2988] Installing DWM hook...
+[2016-04-28 04:57:48][0x4AC:0x2988] User: Nosa
+[2016-04-28 04:59:01][0x15BC:0x66C] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 04:59:01][0x15BC:0x66C] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 04:59:01][0x15BC:0x66C] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 04:59:01][0x15BC:0x66C] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 04:59:01][0x15BC:0x66C] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 04:59:01][0x15BC:0x66C] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 04:59:01][0x15BC:0x11AC] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 04:59:01][0x15BC:0x11AC] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #6
+[2016-04-28 04:59:01][0x15BC:0x11AC] dwmcore.dll version 10.0.10586.212
+[2016-04-28 04:59:01][0x15BC:0x11AC] udwm.dll version 10.0.10586.122
+[2016-04-28 04:59:01][0x15BC:0x11AC] DWM incompatibility error 0x8
+[2016-04-28 05:12:18][0x5A8:0xAB0] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 05:12:18][0x5A8:0xAB0] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 05:12:18][0x5A8:0xAB0] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 05:12:18][0x5A8:0xAB0] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 05:12:18][0x5A8:0xAB0] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 05:12:18][0x5A8:0xAB0] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 05:12:18][0x5A8:0x124] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 05:12:18][0x5A8:0x124] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #7
+[2016-04-28 05:12:18][0x5A8:0x124] dwmcore.dll version 10.0.10586.212
+[2016-04-28 05:12:18][0x5A8:0x124] udwm.dll version 10.0.10586.122
+[2016-04-28 05:12:18][0x5A8:0x124] DWM incompatibility error 0x8
+[2016-04-28 05:14:38][0x4BC:0x1F20] Installing DWM hook...
+[2016-04-28 05:14:38][0x4BC:0x1F20] User: Nosa
+[2016-04-28 05:32:59][0x5A8:0x124] DWM incompatibility error 0x8
+[2016-04-28 10:47:08][0xC60:0x960] Installing DWM hook...
+[2016-04-28 10:47:08][0xC60:0x960] User: SYSTEM
+[2016-04-28 10:47:08][0xC60:0x960] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-28 10:47:09][0x384:0xAC8] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 10:47:09][0x384:0xAC8] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 10:47:09][0x384:0xAC8] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 10:47:09][0x384:0xAC8] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 10:47:09][0x384:0xAC8] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 10:47:09][0x384:0xAC8] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 10:47:09][0x384:0xAD0] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 10:47:09][0x384:0xAD0] Loading settings (flags = 0x3) from HKEY 0x00000000000003AC for session #1
+[2016-04-28 10:47:09][0x384:0xAD0] dwmcore.dll version 10.0.10586.212
+[2016-04-28 10:47:09][0x384:0xAD0] udwm.dll version 10.0.10586.122
+[2016-04-28 10:47:10][0x384:0xAD0] DWM incompatibility error 0x8
+[2016-04-28 14:55:40][0xB64:0x67C] Installing DWM hook...
+[2016-04-28 14:55:40][0xB64:0x67C] User: SYSTEM
+[2016-04-28 14:55:40][0xB64:0x67C] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-28 14:55:40][0x270:0x5C4] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 14:55:40][0x270:0x5C4] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 14:55:41][0x270:0x5C4] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 14:55:41][0x270:0x5C4] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 14:55:41][0x270:0x5C4] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 14:55:41][0x270:0x5C4] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 14:55:41][0x270:0x4D8] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 14:55:41][0x270:0x4D8] Loading settings (flags = 0x3) from HKEY 0x00000000000003B4 for session #1
+[2016-04-28 14:55:41][0x270:0x4D8] dwmcore.dll version 10.0.10586.212
+[2016-04-28 14:55:42][0x270:0x4D8] udwm.dll version 10.0.10586.122
+[2016-04-28 14:55:44][0x270:0x4D8] DWM incompatibility error 0x8
+[2016-04-28 21:23:07][0x2480:0x24CC] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 21:23:07][0x2480:0x24CC] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 21:23:07][0x2480:0x24CC] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 21:23:07][0x2480:0x24CC] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 21:23:07][0x2480:0x24CC] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 21:23:07][0x2480:0x24CC] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 21:23:07][0x2480:0x2AE0] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 21:23:07][0x2480:0x2AE0] Loading settings (flags = 0x3) from HKEY 0x00000000000002A4 for session #1
+[2016-04-28 21:23:08][0x2480:0x2AE0] dwmcore.dll version 10.0.10586.212
+[2016-04-28 21:23:08][0x2480:0x2AE0] udwm.dll version 10.0.10586.122
+[2016-04-28 21:23:08][0x2480:0x2AE0] DWM incompatibility error 0x8
+[2016-04-28 21:23:20][0x464:0x1C64] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-28 21:23:20][0x464:0x1C64] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-28 21:23:20][0x464:0x1C64] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-28 21:23:20][0x464:0x1C64] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-28 21:23:20][0x464:0x1C64] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-28 21:23:20][0x464:0x1C64] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-28 21:23:20][0x464:0x21EC] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-28 21:23:20][0x464:0x21EC] Loading settings (flags = 0x3) from HKEY 0x00000000000005A8 for session #1
+[2016-04-28 21:23:20][0x464:0x21EC] dwmcore.dll version 10.0.10586.212
+[2016-04-28 21:23:20][0x464:0x21EC] udwm.dll version 10.0.10586.122
+[2016-04-28 21:23:21][0x464:0x21EC] DWM incompatibility error 0x8
+[2016-04-29 09:15:34][0x120:0x124] Installing DWM hook...
+[2016-04-29 09:15:35][0x120:0x124] User: SYSTEM
+[2016-04-29 09:15:35][0x120:0x124] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-29 09:15:35][0x1EC:0xF64] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 09:15:35][0x1EC:0xF64] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 09:15:35][0x1EC:0xF64] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 09:15:35][0x1EC:0xF64] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 09:15:35][0x1EC:0xF64] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 09:15:35][0x1EC:0xF64] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 09:15:35][0x1EC:0x1078] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 09:15:35][0x1EC:0x1078] Loading settings (flags = 0x3) from HKEY 0x0000000000000354 for session #1
+[2016-04-29 09:15:35][0x1EC:0x1078] dwmcore.dll version 10.0.10586.212
+[2016-04-29 09:15:36][0x1EC:0x1078] udwm.dll version 10.0.10586.122
+[2016-04-29 09:15:37][0x1EC:0x1078] DWM incompatibility error 0x8
+[2016-04-29 09:36:30][0x27B8:0x2768] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 09:36:30][0x27B8:0x2768] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 09:36:30][0x27B8:0x2768] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 09:36:30][0x27B8:0x2768] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 09:36:30][0x27B8:0x2768] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 09:36:30][0x27B8:0x2768] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 09:36:30][0x27B8:0x2504] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 09:36:30][0x27B8:0x2504] Loading settings (flags = 0x3) from HKEY 0x00000000000001A0 for session #1
+[2016-04-29 09:36:31][0x27B8:0x2504] dwmcore.dll version 10.0.10586.212
+[2016-04-29 09:36:31][0x27B8:0x2504] udwm.dll version 10.0.10586.122
+[2016-04-29 09:36:31][0x27B8:0x2504] DWM incompatibility error 0x8
+[2016-04-29 10:01:36][0x2A88:0x2B9C] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 10:01:42][0x1D7C:0x2F94] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 10:01:42][0x1D7C:0x2F94] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 10:01:42][0x1D7C:0x2F94] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 10:01:42][0x1D7C:0x2F94] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 10:01:42][0x1D7C:0x2F94] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 10:01:42][0x1D7C:0x2F94] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 10:01:42][0x1D7C:0x2968] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 10:01:42][0x1D7C:0x2968] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #2
+[2016-04-29 10:01:42][0x1D7C:0x2968] dwmcore.dll version 10.0.10586.212
+[2016-04-29 10:01:42][0x1D7C:0x2968] udwm.dll version 10.0.10586.122
+[2016-04-29 10:01:42][0x1D7C:0x2968] DWM incompatibility error 0x8
+[2016-04-29 12:41:51][0x3EC0:0x528] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 12:41:51][0x3EC0:0x528] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 12:41:51][0x3EC0:0x528] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 12:41:51][0x3EC0:0x528] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 12:41:51][0x3EC0:0x528] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 12:41:51][0x3EC0:0x528] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 12:41:51][0x3EC0:0x1440] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 12:41:51][0x3EC0:0x1440] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #3
+[2016-04-29 12:41:51][0x3EC0:0x1440] dwmcore.dll version 10.0.10586.212
+[2016-04-29 12:41:51][0x3EC0:0x1440] udwm.dll version 10.0.10586.122
+[2016-04-29 12:41:51][0x3EC0:0x1440] DWM incompatibility error 0x8
+[2016-04-29 12:46:13][0x44F8:0x1020] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 12:46:13][0x44F8:0x1020] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 12:46:13][0x44F8:0x1020] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 12:46:13][0x44F8:0x1020] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 12:46:13][0x44F8:0x1020] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 12:46:13][0x44F8:0x1020] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 12:46:13][0x44F8:0x46CC] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 12:46:13][0x44F8:0x46CC] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #4
+[2016-04-29 12:46:13][0x44F8:0x46CC] dwmcore.dll version 10.0.10586.212
+[2016-04-29 12:46:13][0x44F8:0x46CC] udwm.dll version 10.0.10586.122
+[2016-04-29 12:46:13][0x44F8:0x46CC] DWM incompatibility error 0x8
+[2016-04-29 12:52:11][0x28A0:0x45B8] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 12:52:11][0x28A0:0x45B8] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 12:52:11][0x28A0:0x45B8] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 12:52:11][0x28A0:0x45B8] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 12:52:11][0x28A0:0x45B8] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 12:52:11][0x28A0:0x45B8] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 12:52:11][0x28A0:0x465C] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 12:52:11][0x28A0:0x465C] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #5
+[2016-04-29 12:52:11][0x28A0:0x465C] dwmcore.dll version 10.0.10586.212
+[2016-04-29 12:52:11][0x28A0:0x465C] udwm.dll version 10.0.10586.122
+[2016-04-29 12:52:11][0x28A0:0x465C] DWM incompatibility error 0x8
+[2016-04-29 12:54:53][0x3568:0x4684] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 12:54:53][0x3568:0x4684] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 12:54:53][0x3568:0x4684] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 12:54:53][0x3568:0x4684] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 12:54:53][0x3568:0x4684] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 12:54:53][0x3568:0x4684] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 12:54:53][0x3568:0x2634] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 12:54:53][0x3568:0x2634] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #6
+[2016-04-29 12:54:53][0x3568:0x2634] dwmcore.dll version 10.0.10586.212
+[2016-04-29 12:54:53][0x3568:0x2634] udwm.dll version 10.0.10586.122
+[2016-04-29 12:54:53][0x3568:0x2634] DWM incompatibility error 0x8
+[2016-04-29 12:57:39][0x1E08:0x2B4C] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 12:57:39][0x1E08:0x2B4C] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 12:57:39][0x1E08:0x2B4C] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 12:57:39][0x1E08:0x2B4C] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 12:57:39][0x1E08:0x2B4C] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 12:57:39][0x1E08:0x2B4C] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 12:57:39][0x1E08:0x3DB8] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 12:57:39][0x1E08:0x3DB8] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #7
+[2016-04-29 12:57:39][0x1E08:0x3DB8] dwmcore.dll version 10.0.10586.212
+[2016-04-29 12:57:39][0x1E08:0x3DB8] udwm.dll version 10.0.10586.122
+[2016-04-29 12:57:39][0x1E08:0x3DB8] DWM incompatibility error 0x8
+[2016-04-29 13:03:11][0x2E64:0x374] Installing DWM hook...
+[2016-04-29 13:03:11][0x2E64:0x374] User: SYSTEM
+[2016-04-29 13:03:11][0x2E64:0x374] Module: C:\AeroGlass\DWMGlass.dll
+[2016-04-29 13:03:11][0x4980:0x490C] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 13:03:11][0x4980:0x490C] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 13:03:11][0x4980:0x490C] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 13:03:11][0x4980:0x490C] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 13:03:11][0x4980:0x490C] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 13:03:11][0x4980:0x490C] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 13:03:11][0x4980:0x48C4] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 13:03:11][0x4980:0x48C4] Loading settings (flags = 0x3) from HKEY 0x00000000000003E8 for session #7
+[2016-04-29 13:03:11][0x4980:0x48C4] dwmcore.dll version 10.0.10586.212
+[2016-04-29 13:03:11][0x4980:0x48C4] udwm.dll version 10.0.10586.122
+[2016-04-29 13:03:11][0x4980:0x48C4] DWM incompatibility error 0x8
+[2016-04-29 13:19:30][0x49AC:0x3A68] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 13:19:30][0x49AC:0x3A68] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 13:19:30][0x49AC:0x3A68] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 13:19:30][0x49AC:0x3A68] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 13:19:30][0x49AC:0x3A68] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 13:19:30][0x49AC:0x3A68] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 13:19:30][0x49AC:0x45CC] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 13:19:30][0x49AC:0x45CC] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #8
+[2016-04-29 13:19:30][0x49AC:0x45CC] dwmcore.dll version 10.0.10586.212
+[2016-04-29 13:19:30][0x49AC:0x45CC] udwm.dll version 10.0.10586.122
+[2016-04-29 13:19:30][0x49AC:0x45CC] DWM incompatibility error 0x8
+[2016-04-29 13:19:39][0x49AC:0x45CC] DWM incompatibility error 0x8
+[2016-04-29 13:19:39][0x49AC:0x45CC] DWM incompatibility error 0x8
+[2016-04-29 13:20:16][0x49AC:0x45CC] DWM incompatibility error 0x8
+[2016-04-29 13:20:17][0x49AC:0x45CC] DWM incompatibility error 0x8
+[2016-04-29 13:20:17][0x49AC:0x45CC] DWM incompatibility error 0x8
+[2016-04-29 13:20:26][0x2908:0x22F4] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 13:20:26][0x2908:0x22F4] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 13:20:26][0x2908:0x22F4] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 13:20:26][0x2908:0x22F4] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 13:20:26][0x2908:0x22F4] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 13:20:26][0x2908:0x22F4] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 13:20:26][0x2908:0x4B64] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 13:20:26][0x2908:0x4B64] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #9
+[2016-04-29 13:20:26][0x2908:0x4B64] dwmcore.dll version 10.0.10586.212
+[2016-04-29 13:20:26][0x2908:0x4B64] udwm.dll version 10.0.10586.122
+[2016-04-29 13:20:26][0x2908:0x4B64] Symbols loaded from external files: 0x8
+[2016-04-29 13:37:06][0xE14:0x2F64] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 13:37:06][0xE14:0x2F64] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 13:37:06][0xE14:0x2F64] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 13:37:06][0xE14:0x2F64] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 13:37:06][0xE14:0x2F64] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 13:37:06][0xE14:0x2F64] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 13:37:06][0xE14:0x48C8] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 13:37:06][0xE14:0x48C8] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #10
+[2016-04-29 13:37:06][0xE14:0x48C8] dwmcore.dll version 10.0.10586.212
+[2016-04-29 13:37:06][0xE14:0x48C8] udwm.dll version 10.0.10586.122
+[2016-04-29 13:37:06][0xE14:0x48C8] Symbols loaded from external files: 0x8
+[2016-04-29 18:16:41][0x48A4:0x3B00] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-04-29 18:16:41][0x48A4:0x3B00] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-04-29 18:16:41][0x48A4:0x3B00] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-04-29 18:16:41][0x48A4:0x3B00] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-04-29 18:16:41][0x48A4:0x3B00] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-04-29 18:16:41][0x48A4:0x3B00] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-04-29 18:16:41][0x48A4:0x489C] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-04-29 18:16:41][0x48A4:0x489C] Loading settings (flags = 0x3) from HKEY 0x0000000000000000 for session #11
+[2016-04-29 18:16:41][0x48A4:0x489C] dwmcore.dll version 10.0.10586.212
+[2016-04-29 18:16:41][0x48A4:0x489C] udwm.dll version 10.0.10586.122
+[2016-04-29 18:16:41][0x48A4:0x489C] Symbols loaded from external files: 0x8
+[2016-05-01 10:47:43][0x111C:0x27D8] Donation key not loaded (2 - The system cannot find the file specified.)
+[2016-05-01 10:47:43][0x111C:0x27D8] Machine ID: ILMDHFLZSUQLJLOCSJEWLF2DMDPL4VNLN5LFI7AARL4JE3WQ
+[2016-05-01 10:47:43][0x111C:0x27D8] Hook (USER32.dll!DrawTextW from udwm.dll) installed
+[2016-05-01 10:47:43][0x111C:0x27D8] Hook (GDI32.dll!CreateBitmap from udwm.dll) installed
+[2016-05-01 10:47:43][0x111C:0x27D8] Hook (GDI32.dll!CreateRoundRectRgn from udwm.dll) installed
+[2016-05-01 10:47:43][0x111C:0x27D8] Aero Glass for Win8.1+ 1.4.5.520 x64 correctly loaded (C:\AeroGlass\DWMGlass.dll).
+[2016-05-01 10:47:43][0x111C:0x1500] DBGHELP: Symbol Search Path: .;C:\AeroGlass\symbols
+[2016-05-01 10:47:43][0x111C:0x1500] Loading settings (flags = 0x3) from HKEY 0x0000000000000658 for session #1
+[2016-05-01 10:47:43][0x111C:0x1500] dwmcore.dll version 10.0.10586.212
+[2016-05-01 10:47:43][0x111C:0x1500] udwm.dll version 10.0.10586.122
+[2016-05-01 10:47:44][0x111C:0x1500] Symbols loaded from external files: 0x8
