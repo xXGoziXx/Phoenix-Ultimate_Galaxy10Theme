@@ -1,5 +1,5 @@
 # **Phoenix - Ultimate Galaxy 10 Theme**
-A customized theme using UxTheme Patcher that I made.
+A customized theme using UxTheme Patcher that I made for Windows 10.
 
 **Note:** Make sure you read everything before following the instructions!
 
