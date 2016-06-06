@@ -64,8 +64,4 @@ P.S. There will be a watermark on the desktop (you can donate to [glass8](http:/
    Note: If you have Firefox and want to experience the full glass feature, get the GlassMyFox Extension at:
          https://addons.mozilla.org/en-US/firefox/addon/glassmyfox/
 
-
-
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 Copyright © Phoenix Ultimate inc.
